@@ -14,8 +14,8 @@ vscode
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/kenny/.oh-my-zsh"
-export JIRA_URL="https://jira.clevest.com"
-export JIRA_PREFIX="MWFM-"
+export JIRA_URL="https://agentsonly.atlassian.net"
+export JIRA_PREFIX="AOP-"
 export PATH=~/.local/bin/:$PATH
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
